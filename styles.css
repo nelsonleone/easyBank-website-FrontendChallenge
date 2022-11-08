@@ -74,7 +74,7 @@ header{
     background-color: white;
     width: 100%;
     z-index: 1;
-    padding: 1rem  1.3rem .8rem;
+    padding: 1rem  1.3rem .5rem;
 }
 .secondary-navLinks{
     display: none;
@@ -116,7 +116,7 @@ header{
 .openNav{
     position:absolute;
     cursor:pointer;
-    right:15px;
+    right:18px;
     padding:0;
     top: 20px;
     z-index: 90;
