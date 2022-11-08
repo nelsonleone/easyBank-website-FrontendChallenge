@@ -74,7 +74,7 @@ header{
     background-color: white;
     width: 100%;
     z-index: 1;
-    padding: 1rem  1.3rem .6rem;
+    padding: 1rem  1.3rem .8rem;
 }
 .secondary-navLinks{
     display: none;
@@ -132,7 +132,7 @@ header{
 }
 
 .hero-image{
-    top:-57px;
+    top:-55px;
     background-image: url('images/bg-intro-mobile.svg');
     background-size: cover;
     background-repeat: no-repeat;
